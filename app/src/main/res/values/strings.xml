@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Instagram</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="take_picture">Capture</string>
+    <string name="post_picture">Post</string>
+    <string name="post_desc">Enter your description here.</string>
+</resources>
